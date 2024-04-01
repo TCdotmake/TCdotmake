@@ -12,6 +12,7 @@
       <li>Inkscape/SVG: Icons and seamless background were original creations I made for the project</li>
     </ul>
   </li>
+  
   <li>
     <h4>Crazy8</h4>
     <ul>
@@ -22,6 +23,7 @@
       <li>API: Deck of Cards API</li>
     </ul>
   </li>
+  
   <li>
     <h4>Memory-Card-Game</h4>
     <ul>
@@ -31,8 +33,25 @@
       <li>API: Scryfall.com</li>
     </ul>
   </li>
-
   <li>
+    <h4>Weather App</h4>
+    <ul>
+      <li>Weather app with locale info, 3 days and hourly forecast</li>
+      <li>Can display info in metric or imperial</li>
+      <li>Vanilla JS/HTML/CSS</li>
+      <li>API: Weather API</li>
+    </ul>
+  </li>
+    <li>
+    <h4>Title</h4>
+    <ul>
+      <li>Details</li>
+      <li>Details</li>
+      <li>Details</li>
+      <li>Details</li>
+    </ul>
+  </li>
+    <li>
     <h4>Title</h4>
     <ul>
       <li>Details</li>
