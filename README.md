@@ -51,7 +51,7 @@
     </ul>
   </li>
     <li>
-    <h4><a src='https://tcdotmake.github.io/todolist/'>Todo list</a></h4>
+    <h4><a href="https://tcdotmake.github.io/todolist/" target="_blank">Todo list</a></h4>
     <ul>
       <li>Todo list with filter functionalities</li>
       <li>Vanilla JS/HTML/CSS</li>
