@@ -43,21 +43,18 @@
     </ul>
   </li>
     <li>
-    <h4>Title</h4>
+    <h4>CV-Builder</h4>
     <ul>
-      <li>Details</li>
-      <li>Details</li>
-      <li>Details</li>
-      <li>Details</li>
+      <li>Build/Preview your CV!</li>
+      <li>React</li>
+      <li>CS in JS: Emotion</li>
     </ul>
   </li>
     <li>
-    <h4>Title</h4>
+    <h4>Todo list</h4>
     <ul>
-      <li>Details</li>
-      <li>Details</li>
-      <li>Details</li>
-      <li>Details</li>
+      <li>Todo list with filter functionalities</li>
+      <li>Vanilla JS/HTML/CSS</li>
     </ul>
   </li>
 
