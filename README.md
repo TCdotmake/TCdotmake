@@ -1,5 +1,6 @@
 <h1>Hi! I'm Tommy</h1>
 <h2>Software Developer</h2>
+<p>I'm a self taught developer who like to learn by building simple games :)</p>
 <h3>Recent Projects:</h3>
 <ul>
   <li>
