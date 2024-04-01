@@ -20,7 +20,7 @@
       <li>React</li>
       <li>CS in JS: Emotion</li>
       <li>Animation: Framer Motion</li>
-      <li>API: Deck of Cards API</li>
+      <li>API: <a href="https://www.deckofcardsapi.com/">Deck of Cards API</a></li>
     </ul>
   </li>
   
@@ -30,7 +30,7 @@
       <li>Click on as many cards as you can without clicking the same one twice!</li>
       <li>React</li>
       <li>CS in JS: Emotion</li>
-      <li>API: Scryfall.com</li>
+      <li>API: <a href="https://scryfall.com/docs/api">Scryfall.com</a></li>
     </ul>
   </li>
   <li>
@@ -39,7 +39,7 @@
       <li>Weather app with locale info, 3 days and hourly forecast</li>
       <li>Can display info in metric or imperial</li>
       <li>Vanilla JS/HTML/CSS</li>
-      <li>API: Weather API</li>
+      <li>API: <a href="https://www.weatherapi.com/">Weather API</a></li>
     </ul>
   </li>
     <li>
