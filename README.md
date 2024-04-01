@@ -3,6 +3,16 @@
 <h3>Recent Projects:</h3>
 <ul>
   <li>
+    <h4>Battleship</h4>
+    <ul>
+      <li>Classic Battleship</li>
+      <li>Play against the computer or another player(mobile)</li>
+      <li>Vanilla JS/HTML/CSS</li>
+      <li>Text effects using sophisticated SVG filters</li>
+      <li>Inkscape/SVG: Icons and seamless background were original creations I made for the project</li>
+    </ul>
+  </li>
+  <li>
     <h4>Crazy8</h4>
     <ul>
       <li>Card game that plays like Uno</li>
@@ -18,8 +28,17 @@
       <li>Click on as many cards as you can without clicking the same one twice!</li>
       <li>React</li>
       <li>CS in JS: Emotion</li>
-      <li>CS in JS: Emotion</li>
       <li>API: Scryfall.com</li>
+    </ul>
+  </li>
+    
+    <li>
+    <h4>Title</h4>
+    <ul>
+      <li>Details</li>
+            <li>Details</li>
+      <li>Details</li>
+      <li>Details</li>
     </ul>
   </li>
     <li>
