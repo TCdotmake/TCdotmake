@@ -22,7 +22,7 @@
       <li>API: Deck of Cards API</li>
     </ul>
   </li>
-    <li>
+  <li>
     <h4>Memory-Card-Game</h4>
     <ul>
       <li>Click on as many cards as you can without clicking the same one twice!</li>
@@ -31,32 +31,15 @@
       <li>API: Scryfall.com</li>
     </ul>
   </li>
-    
-    <li>
+
+  <li>
     <h4>Title</h4>
     <ul>
       <li>Details</li>
-            <li>Details</li>
+      <li>Details</li>
       <li>Details</li>
       <li>Details</li>
     </ul>
   </li>
-    <li>
-    <h4>Title</h4>
-    <ul>
-      <li>Details</li>
-            <li>Details</li>
-      <li>Details</li>
-      <li>Details</li>
-    </ul>
-  </li>
-    <li>
-    <h4>Title</h4>
-    <ul>
-      <li>Details</li>
-            <li>Details</li>
-      <li>Details</li>
-      <li>Details</li>
-    </ul>
-  </li>
+
 </ul>
