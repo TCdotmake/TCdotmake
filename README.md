@@ -6,19 +6,20 @@
     <h4>Crazy8</h4>
     <ul>
       <li>Card game that plays like Uno</li>
-      <li>Library: React</li>
+      <li>React</li>
       <li>CS in JS: Emotion</li>
       <li>Animation: Framer Motion</li>
       <li>API: Deck of Cards API</li>
     </ul>
   </li>
     <li>
-    <h4>Title</h4>
+    <h4>Memory-Card-Game</h4>
     <ul>
-      <li>Details</li>
-            <li>Details</li>
-      <li>Details</li>
-      <li>Details</li>
+      <li>Click on as many cards as you can without clicking the same one twice!</li>
+      <li>React</li>
+      <li>CS in JS: Emotion</li>
+      <li>CS in JS: Emotion</li>
+      <li>API: Scryfall.com</li>
     </ul>
   </li>
     <li>
